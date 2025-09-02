@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Mein Game Projekt</title>
+  <title>9ZipCheats</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -79,7 +79,7 @@
 
     <!-- Dein Audio -->
     <audio controls>
-      <source src="Musik.mp3" type="audio/mpeg">
+      <source src="musik.mp3" type="audio/mpeg">
       Dein Browser unterstützt kein Audio.
     </audio>
 
